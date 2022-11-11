@@ -1,4 +1,4 @@
-Hi 👋 My name is Trystan
+Hi 👋 My name is Tristan
 ================================
 
 Web Developer and Web Design
