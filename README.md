@@ -5,7 +5,6 @@ Web Developer and Web Design
 *   🌍  I'm based in France
 *   🧠  I'm learning Vue.js, HTML, CSS, PHP and Node.js and all techno for the project
 *   🤝  I'm open to collaborating on an application that improves everyday life
-*   ⚡  I'm a huge F1 fan.### Skills<p align="left">
 *   ⚡  I'm a huge F1 fan.
 
 ### Skills
