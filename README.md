@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">Web Developer and Web Design</h3>
+
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshitorisutan-web&label=Profile%20views&color=0e75b6&style=flat" alt="yoshitorisutan-web" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌍 I'm based in **France**
+
+- 🏎️ I'm a huge **F1 fan.**
+
+- 🧠 I'm learning **Vue.js, HTML, CSS, PHP and Node.js and all techno for the project**
+
+- 🤝 I'm open to collaborating on **an application that improves everyday life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
