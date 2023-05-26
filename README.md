@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">Web Developer and Web Design</h3>
+<h3 align="center">Web Developer, Web Design and Chief Digital Officer</h3>
 
 <br>
 
