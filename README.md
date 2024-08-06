@@ -14,9 +14,11 @@
 
 - 🌍 I'm based in **France**
 
-- 🏎️ I'm a huge **F1 fan.**
+- 🏎️ I'm a huge **F1 fan.** and **professional video games** (😎)
 
 - 🧠 I'm learning **Vue.js, HTML, CSS, PHP and Node.js and all techno for the project**
+
+- 💪 My favourite languages are React, PHP, Tailwind CSS, NodeJS, Flutter and MySQL.
 
 - 🤝 I'm open to collaborating on **an application that improves everyday life**
 
