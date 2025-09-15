@@ -40,7 +40,6 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&locale=en&layout=compact" alt="yoshitorisutan-web" style="width: 25%;">
   <img src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true&locale=en" alt="yoshitorisutan-web" style="width: 33%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshitorisutan-web&theme=dark" alt="yoshitorisutan-web" style="width: 35%;">
 </div>
             
         
