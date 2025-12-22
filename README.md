@@ -74,11 +74,11 @@ From idea to production, I turn complex problems into simple and efficient digit
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&layout=compact"
-    width="48%"
+    width="38%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true"
-    width="48%"
+    width="38%"
   />
 </div>
 
