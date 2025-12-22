@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-💡 I build clean, scalable and user-focused web applications.<br>
+💡 I build clean, scalable and user-focused web applications. 💡<br>
 From idea to production, I turn complex problems into simple and efficient digital solutions.
 </p>
 
