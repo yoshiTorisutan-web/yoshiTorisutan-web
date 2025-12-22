@@ -71,7 +71,7 @@ From idea to production, I turn complex problems into simple and efficient digit
 <hr>
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&layout=compact"
     width="25%"
