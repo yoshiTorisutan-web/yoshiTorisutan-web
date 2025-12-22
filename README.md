@@ -77,7 +77,17 @@ From idea to production, I turn complex problems into simple and efficient digit
   <img src="https://streak-stats.demolab.com?user=yoshitorisutan-web&hide_border=true" width="35%" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&hide_border=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&hide_border=true
+  &bg_color=ffffff
+  &color=64748b
+  &line=3b82f6
+  &point=0ea5e9
+  &area=true
+  &hide_border=true"
+  width="80%"
+/>
+
 
 <hr>
 
