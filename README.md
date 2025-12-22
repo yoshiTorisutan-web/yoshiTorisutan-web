@@ -81,7 +81,7 @@ From idea to production, I turn complex problems into simple and efficient digit
     width="33%"
   />
   <img
-    src="[https://github-readme-streak-stats.herokuapp.com?user=yoshitorisutan-web&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=yoshitorisutan)"
+    src="https://github-readme-streak-stats.herokuapp.com?user=yoshitorisutan-web&hide_border=true"
     width="32%"
   />
 </div>
