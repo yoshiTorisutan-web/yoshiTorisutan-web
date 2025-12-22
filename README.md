@@ -75,6 +75,7 @@ From idea to production, I turn complex problems into simple and efficient digit
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&layout=compact&hide_border=true" width="25%" />
   <img src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true&count_private=true" width="33%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yoshitorisutan-web" width="35%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&hide_border=true" width="94%" />
 </div>
 
 <hr>
