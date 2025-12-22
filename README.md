@@ -1,33 +1,66 @@
-<h1 align="center">Hello👋, I'm Tristan 🖼️</h1>
-<h3 align="center">Web Developer, Web Design and Chief Digital Officer</h3>
+<h1 align="center">Hello 👋, I'm Tristan</h1>
+<h3 align="center">Web Developer • Web Design • Chief Digital Officer</h3>
+
+<br>
+
+<p align="center">
+💡 I build clean, scalable and user-focused web applications.<br>
+From idea to production, I turn complex problems into simple and efficient digital solutions.
+</p>
 
 <br>
 
 <div align="center">
-  <img alt="Coder GIF" height=250 width=450 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img alt="Coder GIF" height="250" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 <br>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshitorisutan-web&label=Profile%20views&color=10b40e&style=flat" alt="yoshitorisutan-web" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yoshitorisutan-web&label=Profile%20views&color=10b40e&style=flat" alt="profile views" />
+</p>
 
-- 🌍 I'm based in **France**
-
-- 🏎️ I'm a huge **F1 fan.** and **professional video games** (😎)
-
-- 🧠 I'm learning **Vue.js, HTML, CSS, PHP, Python and Node.js and all techno for the project**
-
-- 💪 My favourite languages are React, PHP, Tailwind CSS, NodeJS, Flutter and MySQL.
-
-- 🤝 I'm open to collaborating on **an application that improves everyday life**
+### 👨‍💻 About Me
+- 🌍 Based in **France**
+- 🧠 Learning **Vue.js, HTML, CSS, PHP, Python, Node.js** and modern web ecosystems
+- 💪 Favorite stack: **React, PHP, Tailwind CSS, NodeJS, Flutter, MySQL**
+- 🏎️ F1 fan — precision, performance and strategy mindset
+- 🎮 Competitive gaming — problem-solving under pressure
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Currently Working On
+- Building full-stack web applications
+- Improving performance, accessibility and UX
+- Creating reusable UI components with Tailwind CSS
+- Exploring scalable backend architectures
+
+<hr>
+
+### 🤝 Open To
+- Frontend & Full-Stack collaborations
+- Startup, SaaS or open-source projects
+- Applications that improve everyday life
+
+<hr>
+
+### 🧩 How I Work
+- Clean, readable and maintainable code
+- Strong focus on UX, performance and accessibility
+- Git workflow, reviews and continuous improvement mindset
+- Pragmatic approach: right tool, right solution
+
+<hr>
+
+### 🔗 Connect With Me
 <p align="left">
-<a href="https://dev.to/yoshitorisutan-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yoshitorisutan-web" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yoshitorisutan-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yoshitorisutan-web" height="30" width="40" /></a>
+  <a href="https://dev.to/yoshitorisutan-web" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/yoshitorisutan-web" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>
 </p>
 
 <hr>
@@ -37,9 +70,14 @@
 
 <hr>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&locale=en&layout=compact" alt="yoshitorisutan-web" style="width: 25%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true&locale=en" alt="yoshitorisutan-web" style="width: 33%;">
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true" width="50%"/>
 </div>
-            
-        
+
+<hr>
+
+<p align="center">
+📬 Feel free to reach out for collaboration, discussion or new challenges.
+</p>
