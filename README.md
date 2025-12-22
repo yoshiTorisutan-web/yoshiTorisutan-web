@@ -72,15 +72,15 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&show_icons=true&hide_border=true&layout=compact"
-    width="25%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true"
-    width="33%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoshitorisutan-web&layout=compact&hide_border=true" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&hide_border=true&count_private=true" width="33%" />
+  <img src="https://streak-stats.demolab.com?user=yoshitorisutan-web&hide_border=true" width="35%" />
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&hide_border=true" width="100%" />
+
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,wordpress,figma,git" />
 
 <hr>
 
