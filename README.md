@@ -79,9 +79,6 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&hide_border=true" width="100%" />
 
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,wordpress,figma,git" />
-
 <hr>
 
 <p align="center">
