@@ -52,7 +52,9 @@ From idea to production, I turn complex problems into simple and efficient digit
 - Pragmatic approach: right tool, right solution
 
 <hr>
-<h1 align="center">🔗 Connect With Me</h1>
+
+### 🔗 Connect With Me
+
 <table align="center">
   <tr>
     <td><a href="https://dev.to/yoshitorisutan-web" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a></td>
