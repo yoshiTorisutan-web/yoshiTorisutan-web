@@ -53,7 +53,7 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 <hr>
 
-### 🔗 Connect With Me
+<h3 align="center">🔗 Connect With Me</h3>
 
 <table align="center">
   <tr>
@@ -64,7 +64,7 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 <hr>
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 <br>
 <table align="center">
   <tr>
