@@ -52,9 +52,8 @@ From idea to production, I turn complex problems into simple and efficient digit
 - Pragmatic approach: right tool, right solution
 
 <hr>
-
-### 🔗 Connect With Me
-<table>
+<h1 align="center">🔗 Connect With Me</h1>
+<table align="center">
   <tr>
     <td><a href="https://dev.to/yoshitorisutan-web" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a></td>
     <td><a href="https://stackoverflow.com/users/yoshitorisutan-web" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a></td>
