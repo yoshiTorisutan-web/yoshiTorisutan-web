@@ -65,7 +65,7 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 ### 🛠️ Languages and Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="60"><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
     <td align="center" width="60"><a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
