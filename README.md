@@ -116,6 +116,24 @@ From idea to production, I turn complex problems into simple and efficient digit
     <td align="center" width="60" bgcolor="#ffffff"><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a></td>
     <td align="center" width="60" bgcolor="#ffffff"><a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a></td>
   </tr>
+
+  <tr>
+    <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
+      <a href="https://go.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <hr>
