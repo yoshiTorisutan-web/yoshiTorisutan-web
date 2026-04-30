@@ -74,89 +74,75 @@ From idea to production, I turn complex problems into simple and efficient digit
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://angular.io" target="_blank">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://azure.microsoft.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://babeljs.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://www.w3schools.com/cs/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://dart.dev" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://sass-lang.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
       </a>
     </td>
-
     <td align="center" width="60" style="background-color:#ffffff; border-radius:10px;">
       <a href="https://vuejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
