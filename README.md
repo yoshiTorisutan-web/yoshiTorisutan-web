@@ -137,19 +137,8 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 ### 📊 GitHub Stats
 <div align="center">
-
-<!-- Stats générales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoshitorisutan-web&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<!-- Top languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitorisutan-web&layout=compact&theme=transparent&hide_border=true"/>
-
-<!-- Streak — alternative stable à demolab -->
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=yoshitorisutan-web&theme=transparent&hide_border=true"/>
-
-<!-- Activity graph — alternative à github-readme-activity-graph -->
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshitorisutan-web&theme=github_dark"/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&theme=github-compact&hide_border=true"/>
 </div>
 
 <hr>
