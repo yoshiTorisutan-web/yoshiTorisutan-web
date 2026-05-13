@@ -142,9 +142,9 @@ From idea to production, I turn complex problems into simple and efficient digit
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitorisutan-web&layout=compact&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=yoshitorisutan-web&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoshitorisutan-web&theme=transparent&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yoshitorisutan-web&theme=github-compact&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshitorisutan-web&theme=github_dark"/>
 
 </div>
 
