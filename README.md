@@ -22,7 +22,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoshitorisutan-web&label=Profile%20views&color=10b40e&style=flat" alt="profile views" />
 </p>
 
