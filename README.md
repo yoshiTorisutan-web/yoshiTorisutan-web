@@ -313,25 +313,6 @@ My goal is to create interfaces that are not only functional, but useful, fast a
 
 ---
 
-## 🔗 Connect With Me
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://dev.to/yoshitorisutan-web" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" alt="dev.to" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://stackoverflow.com/users/yoshitorisutan-web" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="stackoverflow" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   📬 Feel free to reach out for collaboration, discussion or new challenges.
 </p>
