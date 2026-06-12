@@ -111,11 +111,11 @@ My goal is to create interfaces that are not only functional, but useful, fast a
 
 ## 🛠️ Main Stack
 
-**Frontend:** React, Vue.js, Tailwind CSS, TypeScript, JavaScript  
-**Backend:** Node.js, PHP, Symfony, Express.js  
-**Database:** MySQL, PostgreSQL, MariaDB  
-**Mobile:** Flutter, Dart  
-**Design & Tools:** Figma, Git, Docker, Postman, Photoshop, Illustrator  
+- **Frontend:** React, Vue.js, Tailwind CSS, TypeScript, JavaScript  
+- **Backend:** Node.js, PHP, Symfony, Express.js  
+- **Database:** MySQL, PostgreSQL, MariaDB  
+- **Mobile:** Flutter, Dart  
+- **Design & Tools:** Figma, Git, Docker, Postman, Photoshop, Illustrator  
 
 ---
 
