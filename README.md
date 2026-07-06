@@ -302,7 +302,7 @@ My goal is to create interfaces that are not only functional, but useful, fast a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="[https://streak-stats.demolab.com?user=yoshitorisutan-web&theme=transparent&hide_border=true](https://streak-stats.demolab.com/?user=yoshitorisutan-web&theme=transparent&hide_border=true)" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=yoshitorisutan-web&theme=transparent&hide_border=true" />
 </div>
 
 <br>
